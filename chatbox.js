@@ -1,5 +1,5 @@
+// meine sari ki sari files ko javascript se bheji hain.
 
- let message=prompt("enter your message to start your chat .")
 
 while (true)
 {
